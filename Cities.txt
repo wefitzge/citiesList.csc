@@ -1,0 +1,42 @@
+﻿Greensboro
+Raleigh
+Durham
+Salt Lake City
+Denver
+Los Angeles
+Cincinatti
+Boulder
+New York City
+Albany
+San Francisco
+Chicago
+Seattle
+Houston
+Boston
+New Orleans
+Dallas
+San Antonio
+Detroit
+Atlanta
+Philadelphia
+Phoenix
+Baltimore
+San Diego
+Indianapolis
+Nashville
+Charlotte
+Jacksonville
+Portland
+Miami
+Oklahoma City
+Minneapolis
+Sacramento
+Tucson
+Las Vegas
+Milwaukee
+Louisville
+Kansas City
+Fort Worth
+Baton Rouge
+Orlando
+Pittsburgh
